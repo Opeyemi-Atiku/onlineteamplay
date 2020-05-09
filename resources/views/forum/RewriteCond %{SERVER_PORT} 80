@@ -1,0 +1,4 @@
+ RewriteCond %{SERVER_PORT} 80
+ RewriteRule ^(.*)$ https://affordableinteriors.co.uk/$1 [R,L]
+
+ INSERT INTO `forums` (`id`, `category`, `created_at`, `updated_at`) VALUES (NULL, 'General Information', NULL, NULL), (NULL, 'Non-related OTP', NULL, NULL), (NULL, 'Premier league', NULL, NULL), (NULL, 'Super league', NULL, NULL), (NULL, 'Cups', NULL, NULL);
