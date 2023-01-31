@@ -1,9 +1,9 @@
 Onlineteamplay
 ===============================
 
-[![PHP](https://www.php.net/)
+[![PHP]([https://www.php.net/](https://www.php.net/images/logos/php-logo-white.svg))
 [![Laravel](https://laravel.com/)
-[![Composer](https://getcomposer.org/)
+[![Composer](https://getcomposer.org/img/logo-composer-transparent.png)
 
 Description
 -------------------------------------
